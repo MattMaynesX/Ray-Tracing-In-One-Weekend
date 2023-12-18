@@ -1,2 +1,2 @@
-# Ray-Tracing-In-One-Weekend
-Following through Ray Tracing In One Weekend
+# Ray-Tracing-Module
+Following through Ray Tracing for a 3D scene with incremental steps
